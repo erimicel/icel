@@ -1,0 +1,17 @@
+# Assign variables
+x = 10
+y = 5
+
+# Conditional logic
+if x > y
+  print "x is greater than y"
+end
+
+if y > x
+  print "y is greater than x"
+end
+
+# This is a comment
+if x == 10
+  print "x equals 10"
+end
